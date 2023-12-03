@@ -1,84 +1,96 @@
-![Hey there, I'm Ricardo and this is my header info as a Gif](header.gif)
+<img src="header.gif"/>
 
-<br /><br />
+###
+
+<!-- ![Hey there, I'm Ricardo and this is my header info as a Gif](header.gif) -->
 
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), My name is Ricardo Esteves
 
 ## Software Engineer
 
-I'm a passionate software engineer from Portugal 🇵🇹, specializing in crafting delightful user experiences and building robust applications.
+> I'm a passionate software engineer from Portugal 🇵🇹, specializing in crafting delightful user experiences and building robust applications.
+
+##
 
 #### About Me
 
-- 🌍 I'm based in Lisbon.
-- 🖥️ See my portfolio at [coming soon!](http://#).
-- 🚀 I'm currently working on [StriptEase](http://github.com/RicardoGEsteves/SprintEase), enhancing user experiences with React, Next.js, and Node.js.
-- 🧠 I’m constantly learning and exploring new technologies to improve my skills.
-- 🤝 I'm open to collaborating on open-source projects and innovative applications.
-- ⚡ Check my repos and get to know a more of my journey and stack.
-- 💬 Ask me about JavaScript, TypeScript, React ecosystem, and building scalable web applications.
+> - 🌍 I'm based in Lisbon.
+> - 🖥️ See my portfolio at [coming soon!](http://#).
+> - 🚀 I'm currently working on [StriptEase](http://github.com/RicardoGEsteves/SprintEase), enhancing user experiences with React, Next.js, and Node.js.
+> - 🧠 I’m constantly learning and exploring new technologies to improve my skills.
+> - 🤝 I'm open to collaborating on open-source projects and innovative applications.
+> - ⚡ Check my repos and get to know a more of my journey and stack.
+> - 💬 Ask me about JavaScript, TypeScript, React ecosystem, and building scalable web applications.
+
+##
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RicardoGEsteves&color=020617)
 
-### Skills & Technologies
+##
 
-#### Frontend & UI
+#### Skills & Technologies
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a></p>
+> #### Frontend & UI
+>
+> <p align="left"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a></p>
+>
+> <p align="left"><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a><a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxtjs" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a></p>
+>
+> Zustand | React Query | React Context API | React DOM | Payload CMS | OpenAI API | Replicate API | Axios | Stripe | Crisp | CSS Modules | Styled Components | Shadcn-UI |
 
-<p align="left"><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a><a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxtjs" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a></p>
+##
 
-CSS Modules | Styled Components | Shadcn-UI | Zustand | React Query | React Context API | React DOM | Axios |
+> #### Backend & Databases
+>
+> <p align="left"><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a></p>
+>
+> <p align="left"><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a></p>
+>
+> <P align="left"><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a></p>
+>
+> Prisma | Zod | trpc | REST API |
 
-#### Backend & Databases
+##
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a></p>
+> #### Additional Tools
+>
+> <p align="left"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" width="36" height="36" alt="MacOS" /></a></p>
+>
+> Vercel | Netlify
 
-<p align="left">
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a></p>
+##
 
-<p align="left"></p>
+#### 💼 Experience
 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a></p>
+> "I've engaged in a diverse spectrum of projects, spanning from fundamental landing pages to intricate full-stack endeavors encompassing robust features such as authentication, authorization, validation, continuous integration, and continuous delivery. Throughout, I maintain an ongoing pursuit of novel technologies while upholding a commitment to achieving excellence."
 
-OpenAI API | Replicate API | Prisma | Zod | Payload CMS | trpc | REST API |
-
-#### Additional Tools
-
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" width="36" height="36" alt="MacOS" /></a></p>
-
-Stripe | Crisp |
-
-### 💼 Experience
-
-"I've engaged in a diverse spectrum of projects, spanning from fundamental landing pages to intricate full-stack endeavors encompassing robust features such as authentication, authorization, validation, continuous integration, and continuous delivery. Throughout, I maintain an ongoing pursuit of novel technologies while upholding a commitment to achieving excellence."
+##
 
 #### Projects & Contributions
 
-##### Latest Projects
+> ##### Latest Projects
+>
+> - [SprintEase](https://github.com/RicardoGEsteves/SprintEase) - B2B SaaS (Business to Business Software as a Service) Flexible work management tool for agile development.
+> - [Omniscient](https://github.com/RicardoGEsteves/omniscient) - Fullstack Software as a Service(SaaS) AI Platform.
+> - [Digital Marketplace](https://github.com/RicardoGEsteves/next-digital-marketplace) - Digital marketplace app (e-commerce platform).
+> - [Bookings Manager](https://github.com/RicardoGEsteves/booking-manager) - Booking manager app, optimized with composition, context, compound components pattern for internal companies management.
+> - [Track Your Trips](https://github.com/RicardoGEsteves/track-your-trips) - Optimized app with lazy component imports, suspense, context, geolocation, react router, Auth, react leaflet and more..
+> - [Pizza Delivery](https://github.com/RicardoGEsteves/pizza-delivery) - Features ready, delivery app optimized with composition.
 
-- [SprintEase](https://github.com/RicardoGEsteves/SprintEase) - B2B SaaS (Business to Business Software as a Service) Flexible work management tool for agile development.
-- [Omniscient](https://github.com/RicardoGEsteves/omniscient) - Fullstack Software as a Service(SaaS) AI Platform.
-- [Digital Marketplace](https://github.com/RicardoGEsteves/next-digital-marketplace) - Digital marketplace app (e-commerce platform).
-- [Bookings Manager](https://github.com/RicardoGEsteves/booking-manager) - Booking manager app, optimized with composition, context, compound components pattern for internal companies management.
-- [Track Your Trips](https://github.com/RicardoGEsteves/track-your-trips) - Optimized app with lazy component imports, suspense, context, geolocation, react router, Auth, react leaflet and more..
-- [Pizza Delivery](https://github.com/RicardoGEsteves/pizza-delivery) - Features ready, delivery app optimized with composition.
+##
 
-### 🚀 How I Work
+#### 🚀 How I Work
 
-I'm dedicated to writing clean, efficient code and leveraging the latest technologies to create seamless solutions. I value collaboration, open-source contributions, and continuous learning.
+> I'm dedicated to writing clean, efficient code and leveraging the latest technologies to create seamless solutions. I value collaboration, open-source contributions, and continuous learning.
 
-### Socials
+##
 
-<p align="left"> <a href="https://www.github.com/RicardoGEsteves" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ricardogesteves" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+#### Socials
 
-<a href="https://www.github.com/RicardoGEsteves" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/RicardoGEsteves?logo=github&style=for-the-badge&color=3382ed&labelColor=181824" /></a>
+ <p align="left"> <a href="https://www.github.com/RicardoGEsteves" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/ricardogesteves" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+ <p align="left"><a href="https://www.github.com/RicardoGEsteves" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/RicardoGEsteves?logo=github&style=for-the-badge&color=3382ed&labelColor=181824" /></a></p>
 
-### Badges
+##
 
 <b>My GitHub Stats</b>
 
@@ -86,28 +98,28 @@ src="https://img.shields.io/github/followers/RicardoGEsteves?logo=github&style=f
 
 <a href="http://www.github.com/RicardoGEsteves"><img src="https://github-readme-streak-stats.herokuapp.com/?user=RicardoGEsteves&stroke=ffffff&background=181824&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+##
+
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/RicardoGEsteves/SprintEase" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoGEsteves&repo=SprintEase&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/RicardoGEsteves/omniscient" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoGEsteves&repo=omniscient&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/RicardoGEsteves/SprintEase" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoGEsteves&repo=SprintEase&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/RicardoGEsteves/omniscient" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoGEsteves&repo=omniscient&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" /></a></div><br><br><br><br><br><br>
+<br>
+<br>
+<br>
+<div width="100%" align="center"><a href="https://github.com/RicardoGEsteves/next-digital-marketplace" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoGEsteves&repo=next-digital-marketplace&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/RicardoGEsteves/booking-manager" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoGEsteves&repo=booking-manager&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" /></a></div><br><br>
+<br>
+<br>
+<br>
+<br>
 
-<div width="100%" align="center"><a href="https://github.com/RicardoGEsteves/next-digital-marketplace" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoGEsteves&repo=next-digital-marketplace&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/RicardoGEsteves/booking-manager" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoGEsteves&repo=booking-manager&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" /></a></div>
+##
 
-<br/>
+#### 🌟 Let's Collaborate!
 
-<br/>
-<br/>
+> I'm actively seeking exciting opportunities to contribute to meaningful projects and collaborate with passionate developers. Feel free to explore my work here on GitHub, and let's connect on [LinkedIn](https://www.linkedin.com/in/ricardogesteves/) to discuss potential collaborations!
+>
+> Looking forward to making impactful contributions together! 😊✨
 
-<br/>
-
-<br/>
-<br/>
-
-### 🌟 Let's Collaborate!
-
-I'm actively seeking exciting opportunities to contribute to meaningful projects and collaborate with passionate developers. Feel free to explore my work here on GitHub, and let's connect on [LinkedIn](https://www.linkedin.com/in/ricardogesteves/) to discuss potential collaborations!
-
-Looking forward to making impactful contributions together! 😊✨
-
-### Connect with Me 👯
+###
 
 ![Visitor Count](https://profile-counter.glitch.me/RicardoGEsteves/count.svg)
