@@ -16,7 +16,7 @@
 
 > - 🌍 I'm based in Lisbon.
 > - 🖥️ See my portfolio at [coming soon!](http://#).
-> - 🚀 I'm currently working on [StriptEase](http://github.com/RicardoGEsteves/SprintEase), enhancing user experiences with React, Next.js, and Node.js.
+> - 🚀 I'm currently working on [Intertwine](http://github.com/RicardoGEsteves/Intertwine), enhancing user experiences with React, Next.js, and Node.js.
 > - 🧠 I’m constantly learning and exploring new technologies to improve my skills.
 > - 🤝 I'm open to collaborating on open-source projects and innovative applications.
 > - ⚡ Check my repos and get to know a more of my journey and stack.
@@ -70,12 +70,11 @@
 
 > ##### Latest Projects
 >
+> - [Intertwine](https://github.com/RicardoGEsteves/Intertwine) - This is an instant messaging and VoIP social platform which allows communication through voice calls, video calls, text messaging, and media and files. Communication can be private or take place in virtual communities called "servers".
 > - [SprintEase](https://github.com/RicardoGEsteves/SprintEase) - B2B SaaS (Business to Business Software as a Service) Flexible work management tool for agile development.
 > - [Omniscient](https://github.com/RicardoGEsteves/omniscient) - Fullstack Software as a Service(SaaS) AI Platform.
 > - [Digital Marketplace](https://github.com/RicardoGEsteves/next-digital-marketplace) - Digital marketplace app (e-commerce platform).
 > - [Bookings Manager](https://github.com/RicardoGEsteves/booking-manager) - Booking manager app, optimized with composition, context, compound components pattern for internal companies management.
-> - [Track Your Trips](https://github.com/RicardoGEsteves/track-your-trips) - Optimized app with lazy component imports, suspense, context, geolocation, react router, Auth, react leaflet and more..
-> - [Pizza Delivery](https://github.com/RicardoGEsteves/pizza-delivery) - Features ready, delivery app optimized with composition.
 
 ##
 
@@ -102,11 +101,11 @@
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/RicardoGEsteves/SprintEase" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoGEsteves&repo=SprintEase&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/RicardoGEsteves/omniscient" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoGEsteves&repo=omniscient&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" /></a></div><br><br><br><br><br><br>
+<div width="100%" align="center"><a href="https://github.com/RicardoGEsteves/Intertwine" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoGEsteves&repo=Intertwine&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/RicardoGEsteves/SprintEase" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoGEsteves&repo=SprintEase&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" /></a></div><br><br><br><br><br><br>
 <br>
 <br>
 <br>
-<div width="100%" align="center"><a href="https://github.com/RicardoGEsteves/next-digital-marketplace" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoGEsteves&repo=next-digital-marketplace&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/RicardoGEsteves/booking-manager" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoGEsteves&repo=booking-manager&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" /></a></div><br><br>
+<div width="100%" align="center"><a href="https://github.com/RicardoGEsteves/omniscient" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoGEsteves&repo=omniscient&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/RicardoGEsteves/next-digital-marketplace" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoGEsteves&repo=next-digital-marketplace&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" /></a></div><br><br>
 <br>
 <br>
 <br>
