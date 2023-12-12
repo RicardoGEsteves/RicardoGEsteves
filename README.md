@@ -62,7 +62,7 @@
 
 > #### Testing
 >
-> <p align="left"><a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jest-colored.svg" width="36" height="36" alt="Jest" /></a><a href="https://testing-library.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/testing-library-colored.svg" width="36" height="36" alt="Testing Library" /></a><a href="https://www.cypress.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cypress-colored.svg" width="36" height="36" alt="Cypress" /></a></p>
+> Jest | Testing Library | Cypress | React Testing Library | Jest DOM | Jest Styled Component |
 
 ##
 
