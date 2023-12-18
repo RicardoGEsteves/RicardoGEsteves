@@ -76,6 +76,7 @@
 
 > ##### Latest Projects
 >
+> - [S3MER](https://github.com/RicardoGEsteves/s3mer) - S3MER is a full stack dynamic live streaming platform, customizable features, multi-platform integration, and a developer-friendly API.
 > - [Intertwine](https://github.com/RicardoGEsteves/Intertwine) - This is an instant messaging and VoIP social platform which allows communication through voice calls, video calls, text messaging, and media and files. Communication can be private or take place in virtual communities called "servers".
 > - [SprintEase](https://github.com/RicardoGEsteves/SprintEase) - B2B SaaS (Business to Business Software as a Service) Flexible work management tool for agile development.
 > - [Omniscient](https://github.com/RicardoGEsteves/omniscient) - Fullstack Software as a Service(SaaS) AI Platform.
