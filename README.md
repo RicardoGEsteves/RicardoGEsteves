@@ -16,7 +16,7 @@
 
 > - 🌍 I'm based in Lisbon.
 > - 🖥️ See my portfolio at [coming soon!](https://#).
-> - 🚀 I'm currently working on [S3MER](https://github.com/RicardoGEsteves/s3mer), enhancing user experiences with React, Next.js, and Node.js.
+> - 🚀 I'm currently working on [SpreadIt](https://github.com/RicardoGEsteves/SpreadIt), enhancing user experiences with React, Next.js, and Node.js.
 > - 🧠 I’m constantly learning and exploring new technologies to improve my skills.
 > - 🤝 I'm open to collaborating on open-source projects and innovative applications.
 > - ⚡ Check my repos and get to know a more of my journey and stack.
