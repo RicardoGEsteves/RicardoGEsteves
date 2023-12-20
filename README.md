@@ -62,7 +62,7 @@
 
 > #### Testing
 >
-> Jest | Testing Library | Cypress | React Testing Library | Jest DOM | Jest Styled Component | Storybook | Jest Storybook |
+> Jest | Testing Library | Cypress | Playwright | React Testing Library | Storybook |
 
 ##
 
