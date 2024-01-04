@@ -17,7 +17,7 @@
 > - 🌍 I'm based in Lisbon.
 > - 🖥️ See my portfolio at [coming soon!](https://#).
 > - ✉️ You can contact me at [codebar.at.dev@gmail.com](mailto:codebar.at.dev@gmail.com)
-> - 🚀 I'm currently working on [Storyscape](https://github.com/RicardoGEsteves/Storyscape), enhancing user experiences with React, Next.js, and Node.js.
+> - 🚀 I'm currently working on [AuthV5-Toolkit](https://github.com/RicardoGEsteves/AuthV5-Toolkit), enhancing user experiences with React, Next.js, and Node.js.
 > - 🧠 I’m constantly learning and exploring new technologies to improve my skills.
 > - 🤝 I'm open to collaborating on open-source projects and innovative applications.
 > - ⚡ Check my repos and get to know a more of my journey and stack.
@@ -111,11 +111,11 @@
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/RicardoGEsteves/s3mer" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoGEsteves&repo=s3mer&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/RicardoGEsteves/Intertwine" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoGEsteves&repo=Intertwine&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" /></a></div><br><br><br><br><br><br>
+<div width="100%" align="center"><a href="https://github.com/RicardoGEsteves/SpreadIt" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoGEsteves&repo=SpreadIt&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/RicardoGEsteves/s3mer" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoGEsteves&repo=s3mer&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" /></a></div><br><br><br><br><br><br>
 <br>
 <br>
 <br>
-<div width="100%" align="center"><a href="https://github.com/RicardoGEsteves/SprintEase" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoGEsteves&repo=SprintEase&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/RicardoGEsteves/omniscient" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoGEsteves&repo=omniscient&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" /></a></div><br><br>
+<div width="100%" align="center"><a href="https://github.com/RicardoGEsteves/Intertwine" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoGEsteves&repo=Intertwine&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/RicardoGEsteves/SprintEase" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoGEsteves&repo=SprintEase&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" /></a></div><br><br>
 <br>
 <br>
 <br>
