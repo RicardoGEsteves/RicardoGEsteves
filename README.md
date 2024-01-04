@@ -77,6 +77,7 @@
 
 > ##### Latest Projects
 >
+> - [Storyscape](https://github.com/RicardoGEsteves/Storyscape) - Storyscape leverages cutting-edge technologies to provide users with an immersive social media experience. By utilizing TypeScript, React, Next.js, Tailwind CSS, and other advanced tools, Storyscape aims to redefine user interaction with content, fostering meaningful connections within a vibrant online community.
 > - [SpreadIt](https://github.com/RicardoGEsteves/SpreadIt) - SpreadIt is a dynamic social news aggregation platform powered by robust backend technologies and a user-friendly interface. It employs modern web development frameworks and scalable architecture to enable seamless content submission, sharing, and voting across various formats (articles, images, videos).
 > - [S3MER](https://github.com/RicardoGEsteves/s3mer) - S3MER is a full stack dynamic live streaming platform, customizable features, multi-platform integration, and a developer-friendly API.
 > - [Intertwine](https://github.com/RicardoGEsteves/Intertwine) - This is an instant messaging and VoIP social platform which allows communication through voice calls, video calls, text messaging, and media and files. Communication can be private or take place in virtual communities called "servers".
@@ -124,7 +125,7 @@
 
 #### 🌟 Let's Collaborate!
 
-> I'm actively seeking exciting opportunities to contribute to meaningful projects and collaborate with passionate developers. Feel free to explore my work here on GitHub, and let's connect on [LinkedIn](https://www.linkedin.com/in/ricardogesteves/) to discuss potential collaborations!
+> I'm actively seeking exciting opportunities to contribute to meaningful projects and collaborate with passionate developers. Feel free to explore my work here on GitHub, and let's connect on [LinkedIn](https://www.linkedin.com/in/ricardogesteves/) or [X(twitter)](https://twitter.com/RicardoGEsteves) to discuss potential collaborations!
 >
 > Looking forward to making impactful contributions together! 😊✨
 
