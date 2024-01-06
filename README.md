@@ -16,7 +16,7 @@
 
 > - 🌍 I'm based in Lisbon.
 > - 🖥️ See my portfolio at [coming soon!](https://#).
-> - ✉️ You can contact me at [codebar.at.dev@gmail.com](mailto:codebar.at.dev@gmail.com)
+> - ✉️ You can contact me at [X(twitter)](https://twitter.com/RicardoGEsteves) or at [Dev](https://dev.to/ricardogesteves)
 > - 🚀 I'm currently working on [AuthV5-Toolkit](https://github.com/RicardoGEsteves/AuthV5-Toolkit), enhancing user experiences with React, Next.js, and Node.js.
 > - 🧠 I’m constantly learning and exploring new technologies to improve my skills.
 > - 🤝 I'm open to collaborating on open-source projects and innovative applications.
