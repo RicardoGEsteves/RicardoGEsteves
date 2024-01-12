@@ -49,7 +49,7 @@
 >
 > <P align="left"><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://appwrite.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/appwrite-colored-dark.svg" width="36" height="36" alt="Appwrite" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a></p>
 >
-> Prisma | Zod | trpc | REST API | Livekit | Socket.io | Server Actions | WebSockets | WebRTC | Ngrok | Svix |
+> Prisma | Zod | tRPC | REST API | Livekit | Socket.io | Server Actions | WebSockets | WebRTC | Ngrok | Svix |
 
 ##
 
@@ -79,12 +79,12 @@
 >
 > - [Storyscape](https://github.com/RicardoGEsteves/Storyscape) - Storyscape leverages cutting-edge technologies to provide users with an immersive social media experience. By utilizing TypeScript, React, Next.js, Tailwind CSS, and other advanced tools, Storyscape aims to redefine user interaction with content, fostering meaningful connections within a vibrant online community.
 > - [SpreadIt](https://github.com/RicardoGEsteves/SpreadIt) - SpreadIt is a dynamic social news aggregation platform powered by robust backend technologies and a user-friendly interface. It employs modern web development frameworks and scalable architecture to enable seamless content submission, sharing, and voting across various formats (articles, images, videos).
-> - [S3MER](https://github.com/RicardoGEsteves/s3mer) - S3MER is a full stack dynamic live streaming platform, customizable features, multi-platform integration, and a developer-friendly API.
+> - [S3MER](https://github.com/RicardoGEsteves/s3mer) - S3MER is a full-stack dynamic live streaming platform, with customizable features, multi-platform integration, and a developer-friendly API.
 > - [Intertwine](https://github.com/RicardoGEsteves/Intertwine) - This is an instant messaging and VoIP social platform which allows communication through voice calls, video calls, text messaging, and media and files. Communication can be private or take place in virtual communities called "servers".
 > - [SprintEase](https://github.com/RicardoGEsteves/SprintEase) - B2B SaaS (Business to Business Software as a Service) Flexible work management tool for agile development.
-> - [Omniscient](https://github.com/RicardoGEsteves/omniscient) - Fullstack Software as a Service(SaaS) AI Platform.
-> - [Digital Marketplace](https://github.com/RicardoGEsteves/next-digital-marketplace) - Digital marketplace app (e-commerce platform).
-> - [Bookings Manager](https://github.com/RicardoGEsteves/booking-manager) - Booking manager app, optimized with composition, context, compound components pattern for internal companies management.
+> - [Omniscient](https://github.com/RicardoGEsteves/omniscient) - Cutting-edge Full-stack AI Platform delivered as a SaaS (Software as a Service). Built on a robust technology stack, integrated with powerful APIs such as OpenAI and Replicate, offers a seamless experience for code generation, conversation simulation, image creation, music composition, and video generation.
+> - [Digital Marketplace](https://github.com/RicardoGEsteves/next-digital-marketplace) - Digital Marketplace is a sophisticated full-stack e-commerce platform designed to deliver a seamless shopping experience for users. It incorporates cutting-edge technologies and frameworks to ensure robustness, efficiency, and scalability.
+> - [Bookings Manager](https://github.com/RicardoGEsteves/booking-manager) - Bookings Manager is a comprehensive React application designed for internal booking management, featuring an intuitive dashboard and a plethora of functionalities. It's optimized using composition, context, and the compound components pattern to deliver an efficient and scalable solution.
 
 ##
 
@@ -126,6 +126,7 @@
 #### 🌟 Let's Collaborate!
 
 > I'm actively seeking exciting opportunities to contribute to meaningful projects and collaborate with passionate developers. Feel free to explore my work here on GitHub, and let's connect on [LinkedIn](https://www.linkedin.com/in/ricardogesteves/) or [X(twitter)](https://twitter.com/RicardoGEsteves) to discuss potential collaborations!
+> Also check my profile and contributions on [Dev](https://dev.to/ricardogesteves) and my [StackShare](https://stackshare.io/RicardoGEsteves/latest).
 >
 > Looking forward to making impactful contributions together! 😊✨
 
