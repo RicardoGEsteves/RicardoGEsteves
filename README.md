@@ -8,7 +8,7 @@
 
 ## Software Engineer
 
-> I'm a passionate software engineer from Portugal 🇵🇹, specializing in crafting delightful user experiences and building robust applications.
+> I am a dedicated software engineer based in Portugal 🇵🇹, with expertise in creating compelling user experiences and developing resilient applications. My focus lies in the meticulous craftsmanship of user interfaces and the construction of robust, high-performance software solutions.
 
 ##
 
@@ -17,10 +17,10 @@
 > - 🌍 I'm based in Lisbon.
 > - 🖥️ See my portfolio at [coming soon!](https://#).
 > - ✉️ You can contact me at [X(twitter)](https://twitter.com/RicardoGEsteves) or at [Dev](https://dev.to/ricardogesteves)
-> - 🚀 I'm currently working on [AuthV5-Toolkit](https://github.com/RicardoGEsteves/AuthV5-Toolkit), enhancing user experiences with React, Next.js, and Node.js.
+> - 🚀 I'm currently working on [AuthV5-Toolkit](https://github.com/RicardoGEsteves/AuthV5-Toolkit), enhancing user experiences with TypeScript, React, Next.js, and Node.js.
 > - 🧠 I’m constantly learning and exploring new technologies to improve my skills.
 > - 🤝 I'm open to collaborating on open-source projects and innovative applications.
-> - ⚡ Check my repos and get to know a more of my journey and stack.
+> - ⚡ Check my repos and get to know a bit more of my journey and stack.
 > - 💬 Ask me about JavaScript, TypeScript, React ecosystem, and building scalable web applications.
 
 ##
@@ -37,7 +37,7 @@
 >
 > <p align="left"><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a><a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gatsby-colored.svg" width="36" height="36" alt="Gatsby" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a><a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxtjs" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a></p>
 >
-> Zustand | Tanstack/React Query | Tanstack/React-table | React Context API | React DOM | Payload CMS | OpenAI API | Replicate API | Axios | Stripe | Crisp | CSS Modules | Styled Components | StyleX | Shadcn-UI | Storybook | Framer Motion | GSAP | Three.js | WebGL | Webhooks | JWT | OAuth |
+> Zustand | Tanstack/react-query | Tanstack/react-table | React Context API | React DOM | Payload CMS | OpenAI API | Replicate API | Axios | Stripe | Crisp | CSS Modules | Styled Components | StyleX | Shadcn-UI | Storybook | Framer Motion | GSAP | Three.js | WebGL | Webhooks | JWT | OAuth |
 
 ##
 
@@ -69,7 +69,7 @@
 
 #### 💼 Experience
 
-> "I've engaged in a diverse spectrum of projects, spanning from fundamental landing pages to intricate full-stack endeavors encompassing robust features such as authentication, authorization, validation, continuous integration, and continuous delivery. Throughout, I maintain an ongoing pursuit of novel technologies while upholding a commitment to achieving excellence."
+> I've engaged in a diverse spectrum of projects, spanning from fundamental landing pages to intricate full-stack endeavors encompassing robust features such as authentication, authorization, validation, continuous integration, and continuous delivery. Throughout, I maintain an ongoing pursuit of novel technologies while upholding a commitment to achieving excellence.
 
 ##
 
@@ -80,8 +80,8 @@
 > - [Storyscape](https://github.com/RicardoGEsteves/Storyscape) - Storyscape leverages cutting-edge technologies to provide users with an immersive social media experience. By utilizing TypeScript, React, Next.js, Tailwind CSS, and other advanced tools, Storyscape aims to redefine user interaction with content, fostering meaningful connections within a vibrant online community.
 > - [SpreadIt](https://github.com/RicardoGEsteves/SpreadIt) - SpreadIt is a dynamic social news aggregation platform powered by robust backend technologies and a user-friendly interface. It employs modern web development frameworks and scalable architecture to enable seamless content submission, sharing, and voting across various formats (articles, images, videos).
 > - [S3MER](https://github.com/RicardoGEsteves/s3mer) - S3MER is a full-stack dynamic live streaming platform, with customizable features, multi-platform integration, and a developer-friendly API.
-> - [Intertwine](https://github.com/RicardoGEsteves/Intertwine) - This is an instant messaging and VoIP social platform which allows communication through voice calls, video calls, text messaging, and media and files. Communication can be private or take place in virtual communities called "servers".
-> - [SprintEase](https://github.com/RicardoGEsteves/SprintEase) - B2B SaaS (Business to Business Software as a Service) Flexible work management tool for agile development.
+> - [Intertwine](https://github.com/RicardoGEsteves/Intertwine) - It's a instant messaging and VoIP social platform which allows communication through voice calls, video calls, text messaging, and media and files. Communication can be private or take place in virtual communities called "servers".
+> - [SprintEase](https://github.com/RicardoGEsteves/SprintEase) - SprintEase is a powerful and flexible work management tool designed for agile development in a B2B SaaS (Business to Business Software as a Service) environment. SprintEase empowers teams with features tailored for agile methodologies, making collaboration and project management seamless built on a robust technology stack.
 > - [Omniscient](https://github.com/RicardoGEsteves/omniscient) - Cutting-edge Full-stack AI Platform delivered as a SaaS (Software as a Service). Built on a robust technology stack, integrated with powerful APIs such as OpenAI and Replicate, offers a seamless experience for code generation, conversation simulation, image creation, music composition, and video generation.
 > - [Digital Marketplace](https://github.com/RicardoGEsteves/next-digital-marketplace) - Digital Marketplace is a sophisticated full-stack e-commerce platform designed to deliver a seamless shopping experience for users. It incorporates cutting-edge technologies and frameworks to ensure robustness, efficiency, and scalability.
 > - [Bookings Manager](https://github.com/RicardoGEsteves/booking-manager) - Bookings Manager is a comprehensive React application designed for internal booking management, featuring an intuitive dashboard and a plethora of functionalities. It's optimized using composition, context, and the compound components pattern to deliver an efficient and scalable solution.
