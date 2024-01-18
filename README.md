@@ -17,7 +17,7 @@
 > - 🌍 I'm based in Lisbon.
 > - 🖥️ See my portfolio at [coming soon!](https://#).
 > - ✉️ You can contact me at [X(twitter)](https://twitter.com/RicardoGEsteves) or at [Dev](https://dev.to/ricardogesteves)
-> - 🚀 I'm currently working on [Insightful](https://github.com/RicardoGEsteves/Insightful), enhancing user experiences with TypeScript, React, Next.js, and Node.js.
+> - 🚀 I'm currently working on [Insightful](https://github.com/RicardoGEsteves/Insightful), enhancing user experiences and harnessing a versatile tech stack that adapts to project requirements.
 > - 🧠 I’m constantly learning and exploring new technologies to improve my skills.
 > - 🤝 I'm open to collaborating on open-source projects and innovative applications.
 > - ⚡ Check my repos and get to know a bit more of my journey and stack.
@@ -49,7 +49,7 @@
 >
 > <P align="left"><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://appwrite.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/appwrite-colored-dark.svg" width="36" height="36" alt="Appwrite" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a></p>
 >
-> Hono | Prisma | Zod | tRPC | REST API | Livekit | Socket.io | Server Actions | WebSockets | Payload CMS | WebRTC | Ngrok | Svix |
+> Bun | Hono | Prisma | Zod | tRPC | REST API | Livekit | Socket.io | Server Actions | WebSockets | Payload CMS | WebRTC | Ngrok | Svix |
 
 ##
 
