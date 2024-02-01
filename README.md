@@ -1,30 +1,28 @@
-<div style="background-color:#171817">
+<!-- <div style="background-color:#181824"> -->
 
 <p align="center">
-  <img src="logo.png" alt="My Logo" width="200" height="200">
+  <img src="header.gif" alt="Header image">
 </p>
-</div>
+<!-- </div> -->
 
-<!-- ![Hey there, I'm Ricardo and this is my header info as a Gif](header.gif) -->
+# Hello, World! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px"> I'm Ricardo Esteves
 
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), My name is Ricardo Esteves
+## Software Engineer | Full Stack Developer
 
-## Software Engineer
-
-> I am a dedicated software engineer based in Portugal 🇵🇹, with expertise in creating compelling user experiences and developing resilient applications. My focus lies in the meticulous craftsmanship of user interfaces and the construction of robust, high-performance software solutions.
+I am a Portugal-based Software Engineer specializing in end-to-end software development, with a primary focus on crafting clean user interfaces and robust, high-performance backend services. Employing a meticulous approach to problem-solving, I consistently strive to deliver resilient and efficient software solutions.
 
 ##
 
 #### About Me
 
-> - 🌍 I'm based in Lisbon.
-> - 🖥️ See my portfolio at [coming soon!](https://#).
-> - ✉️ You can contact me at [X(twitter)](https://twitter.com/RicardoGEsteves) or at [Dev](https://dev.to/ricardogesteves)
-> - 🚀 I'm currently working on [Cooking something special 🔥](#), enhancing user experiences and harnessing a versatile tech stack that adapts to project requirements.
-> - 🧠 I’m constantly learning and exploring new technologies to improve my skills.
-> - 🤝 I'm open to collaborating on open-source projects and innovative applications.
-> - ⚡ Check my repos and get to know a bit more of my journey and stack.
-> - 💬 Ask me about JavaScript, TypeScript, React ecosystem, and building scalable web applications.
+> - 🌍 Based in Lisbon, Portugal.
+> - 🖥️ Explore my portfolio at [coming soon!](https://#).
+> - ✉️ Contact me at [X(Twitter)](https://twitter.com/RicardoGEsteves) or [DEV](https://dev.to/ricardogesteves).
+> - 🚀 Currently engaged in [Cooking something special 🔥](https://#), enhancing user experiences, and utilizing a versatile tech stack adaptable to project requirements.
+> - 🧠 Constantly learning and exploring new technologies to advance my skills.
+> - 🤝 Open to collaborating on open-source projects and innovative applications.
+> - ⚡ Check my repositories to gain insights into my journey and tech stack.
+> - 💬 Ask me about `JavaScript, TypeScript, React` ecosystem, and building scalable web applications.
 
 ##
 
@@ -34,17 +32,17 @@
 
 #### Skills & Technologies
 
-> #### Frontend & UI
+> **Frontend & UI**
 >
 > <p align="left"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a></p>
 >
 > <p align="left"><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a><a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gatsby-colored.svg" width="36" height="36" alt="Gatsby" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a><a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxtjs" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a></p>
 >
-> Zustand | Jotai | Redux Toolkit | Redux Toolkit Query | TanStack React Query | TanStack React Table | React Context API | React DOM | React Router | OpenAI API | Replicate API | Regression-js | Recharts |Axios | Stripe | Clerk | Auth.js | Crisp | CSS Modules | Styled Components | StyleX | Shadcn-ui | Framer Motion | GSAP | Three.js | WebGL | Webhooks | JWT | OAuth |
+> `Zustand | Jotai | Redux Toolkit | Redux Toolkit Query | TanStack React Query | TanStack React Table | React Context API | React DOM | React Router | OpenAI API | Replicate API | Regression-js | Recharts |Axios | Stripe | Clerk | Auth.js | Crisp | CSS Modules | Styled Components | StyleX | Shadcn-ui | Framer Motion | GSAP | Three.js | WebGL | Webhooks | JWT | OAuth |`
 
 ##
 
-> #### Backend & Databases
+> **Backend & Databases**
 >
 > <p align="left"><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a></p>
 >
@@ -52,33 +50,33 @@
 >
 > <P align="left"><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://appwrite.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/appwrite-colored-dark.svg" width="36" height="36" alt="Appwrite" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a></p>
 >
-> Bun | Hono | Convex | Prisma | Drizzle | Zod | Yup | Joi | tRPC | Redis | REST API | Livekit | Socket.io | Server Actions | WebSockets | Payload CMS | WebRTC | Ngrok | Svix |
+> `Bun | Hono | Convex | Prisma | Drizzle | Zod | Yup | Joi | tRPC | Redis | REST API | Livekit | Socket.io | Server Actions | WebSockets | Payload CMS | WebRTC | Ngrok | Svix |`
 
 ##
 
-> #### Additional Tools
+> **Additional Tools**
 >
 > <p align="left"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" width="36" height="36" alt="MacOS" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a></p>
 >
-> Vercel | Netlify | Fly.io |
+> `Vercel | Netlify | Fly.io |`
 
 ##
 
-> #### Testing
+> **Testing**
 >
-> Jest | Testing Library | Cypress | Playwright | React Testing Library | Storybook |
+> `Jest | Testing Library | Cypress | Playwright | React Testing Library | Storybook |`
 
 ##
 
 #### 💼 Experience
 
-> I've engaged in a diverse spectrum of projects, spanning from fundamental landing pages to intricate full-stack endeavors encompassing robust features such as authentication, authorization, validation, continuous integration, and continuous delivery. Throughout, I maintain an ongoing pursuit of novel technologies while upholding a commitment to achieving excellence.
+> Engaged in a diverse spectrum of projects, ranging from fundamental landing pages to intricate full-stack endeavors encompassing robust features such as authentication, authorization, validation, continuous integration, and continuous delivery. Throughout, maintaining an ongoing pursuit of novel technologies while upholding a commitment to achieving excellence.
 
 ##
 
 #### Projects & Contributions
 
-> ##### Latest Projects
+> **Latest Projects**
 >
 > - [AuthV5-Toolkit](https://github.com/RicardoGEsteves/AuthV5-Toolkit) - Auth.js V5 Toolkit is a specialized toolkit designed to streamline the process of implementing sophisticated and customizable authentication mechanisms within Next.js applications. It provides a solid foundation and structure to integrate Auth.js V5 seamlessly. It's designed to provide a robust and scalable solution for managing user authentication in web applications.
 > - [Storyscape](https://github.com/RicardoGEsteves/Storyscape) - Storyscape leverages cutting-edge technologies to provide users with an immersive social media experience. By utilizing TypeScript, React, Next.js, Tailwind CSS, and other advanced tools, Storyscape aims to redefine user interaction with content, fostering meaningful connections within a vibrant online community.
@@ -94,7 +92,7 @@
 
 #### 🚀 How I Work
 
-> I'm dedicated to writing clean, efficient code and leveraging the latest technologies to create seamless solutions. I value collaboration, open-source contributions, and continuous learning.
+> Dedicated to write clean, efficient code and leveraging the latest technologies to create seamless solutions. I value collaboration, open-source contributions, and continuous learning.
 
 ##
 
@@ -129,8 +127,8 @@
 
 #### 🌟 Let's Collaborate!
 
-> I'm actively seeking exciting opportunities to contribute to meaningful projects and collaborate with passionate developers. Feel free to explore my work here on GitHub, and let's connect on [LinkedIn](https://www.linkedin.com/in/ricardogesteves/) or [X(twitter)](https://twitter.com/RicardoGEsteves) to discuss potential collaborations!
-> Also check my profile and contributions on [Dev](https://dev.to/ricardogesteves) and my [StackShare](https://stackshare.io/RicardoGEsteves/latest).
+> Actively seeking exciting opportunities to contribute to meaningful projects and collaborate with passionate developers. Feel free to explore my work here on GitHub, and let's connect on [LinkedIn](https://www.linkedin.com/in/ricardogesteves/) or [X(Twitter)](https://twitter.com/RicardoGEsteves) to discuss potential collaborations!
+> Also check my profile and contributions on [DEV](https://dev.to/ricardogesteves) and my [StackShare](https://stackshare.io/RicardoGEsteves/latest).
 >
 > Looking forward to making impactful contributions together! 😊✨
 
