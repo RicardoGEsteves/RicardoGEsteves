@@ -1,11 +1,11 @@
 <!-- <div style="background-color:#181824"> -->
 
 <p align="center">
-  <img src="header.gif" alt="Header image">
+  <img src="header-image.png" alt="Header image">
 </p>
 <!-- </div> -->
 
-# Hello, World! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px"> I'm Ricardo Esteves
+# Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px"> I'm Ricardo Esteves
 
 ## Software Engineer | Full Stack Developer
 
@@ -22,7 +22,7 @@ I am a Portugal-based Software Engineer specializing in end-to-end software deve
 > - 🧠 Constantly learning and exploring new technologies to advance my skills.
 > - 🤝 Open to collaborating on open-source projects and innovative applications.
 > - ⚡ Check my repositories to gain insights into my journey and tech stack.
-> - 💬 Ask me about `JavaScript, TypeScript, React` ecosystem, and building scalable web applications.
+> - 💬 Ask me about **JavaScript, TypeScript, React** ecosystem, and building scalable web applications.
 
 ##
 
@@ -38,7 +38,7 @@ I am a Portugal-based Software Engineer specializing in end-to-end software deve
 >
 > <p align="left"><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a><a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gatsby-colored.svg" width="36" height="36" alt="Gatsby" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a><a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxtjs" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a></p>
 >
-> `Zustand | Jotai | Redux Toolkit | Redux Toolkit Query | TanStack React Query | TanStack React Table | React Context API | React DOM | React Router | OpenAI API | Replicate API | Regression-js | Recharts |Axios | Stripe | Clerk | Auth.js | Crisp | CSS Modules | Styled Components | StyleX | Shadcn-ui | Framer Motion | GSAP | Three.js | WebGL | Webhooks | JWT | OAuth |`
+> `Zustand`, `Jotai`, `Redux Toolkit`, `Redux Toolkit Query`, `TanStack Query`, `TanStack Table`, `React Context API`, `React DOM`, `React Router`, `OpenAI API`, `Replicate API`, `Regression-js`, `Recharts`, `Axios`, `Stripe`, `Clerk`, `Auth.js`, `Crisp`, `CSS Modules`, `Styled Components`, `StyleX`, `Shadcn-ui`, `Framer Motion`, `GSAP`, `Three.js`, `WebGL`, `Webhooks`, `JWT`, `OAuth`
 
 ##
 
@@ -50,7 +50,7 @@ I am a Portugal-based Software Engineer specializing in end-to-end software deve
 >
 > <P align="left"><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://appwrite.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/appwrite-colored-dark.svg" width="36" height="36" alt="Appwrite" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a></p>
 >
-> `Bun | Hono | Convex | Prisma | Drizzle | Zod | Yup | Joi | tRPC | Redis | REST API | Livekit | Socket.io | Server Actions | WebSockets | Payload CMS | WebRTC | Ngrok | Svix |`
+> `Bun`, `Hono`, `Convex`, `Prisma`, `Drizzle`, `Zod`, `Yup`, `Joi`, `tRPC`, `Redis`, `REST APIs`, `Livekit`, `Socket.io`, `Server Actions`, `WebSockets`, `Payload CMS`, `WebRTC`, `Ngrok`, `Svix`
 
 ##
 
@@ -58,19 +58,19 @@ I am a Portugal-based Software Engineer specializing in end-to-end software deve
 >
 > <p align="left"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" width="36" height="36" alt="MacOS" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a></p>
 >
-> `Vercel | Netlify | Fly.io |`
+> `Vercel`, `Netlify`, `Fly.io `
 
 ##
 
 > **Testing**
 >
-> `Jest | Testing Library | Cypress | Playwright | React Testing Library | Storybook |`
+> `Jest`, `Testing Library`, `Playwright`, `Cypress`, `Storybook`
 
 ##
 
 #### 💼 Experience
 
-> Engaged in a diverse spectrum of projects, ranging from fundamental landing pages to intricate full-stack endeavors encompassing robust features such as authentication, authorization, validation, continuous integration, and continuous delivery. Throughout, maintaining an ongoing pursuit of novel technologies while upholding a commitment to achieving excellence.
+> Engaged in a diverse spectrum of projects, ranging from **fundamental landing pages to intricate full-stack endeavors encompassing robust features** such as authentication, authorization, validation, continuous integration, and continuous delivery. Throughout, maintaining an ongoing pursuit of novel technologies while **upholding a commitment to achieving excellence**.
 
 ##
 
@@ -92,7 +92,7 @@ I am a Portugal-based Software Engineer specializing in end-to-end software deve
 
 #### 🚀 How I Work
 
-> Dedicated to write clean, efficient code and leveraging the latest technologies to create seamless solutions. I value collaboration, open-source contributions, and continuous learning.
+> Dedicated to **write clean, efficient code** and leveraging the latest technologies to create seamless solutions. I value collaboration, open-source contributions, and continuous learning.
 
 ##
 
@@ -134,4 +134,4 @@ I am a Portugal-based Software Engineer specializing in end-to-end software deve
 
 ###
 
-![Visitor Count](https://profile-counter.glitch.me/RicardoGEsteves/count.svg)
+<!-- ![Visitor Count](https://profile-counter.glitch.me/RicardoGEsteves/count.svg) -->
