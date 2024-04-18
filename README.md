@@ -131,7 +131,7 @@ I am a Portugal-based Software Engineer specializing in end-to-end software deve
 <br>
 <br>
 <br>
-<div width="100%" align="center"><a href="https://github.com/RicardoGEsteves/SpreadIt" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoGEsteves&repo=SpreadIt&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/RicardoGEsteves/booking-manager" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoGEsteves&repo=booking-manager&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" /></a></div><br><br>
+<div width="100%" align="center"><a href="https://github.com/RicardoGEsteves/SpreadIt" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoGEsteves&repo=SpreadIt&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/RicardoGEsteves/Storyscape" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RicardoGEsteves&repo=Storyscape&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=181824&hide_border=true&locale=en" /></a></div><br><br>
 <br>
 <br>
 <br>
