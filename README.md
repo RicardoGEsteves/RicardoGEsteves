@@ -16,7 +16,7 @@ I am a Portugal-based Software Engineer specializing in end-to-end software deve
 #### About Me
 
 > - 🌍 Based in Lisbon, Portugal.
-> - 🖥️ Explore my portfolio at [https://www.ricardogesteves.com/](https://www.ricardogesteves.com/).
+> - 🖥️ Explore my portfolio at [https://www.ricardogesteves.com](https://www.ricardogesteves.com).
 > - ✉️ Contact me at [X(Twitter)](https://twitter.com/RicardoGEsteves) or [DEV](https://dev.to/ricardogesteves).
 > - 🚀 Currently engaged in [Cooking something special 🔥](https://#), enhancing user experiences, and utilizing a versatile tech stack adaptable to project requirements.
 > - 🧠 Constantly learning and exploring new technologies to advance my skills.
@@ -143,7 +143,7 @@ I am a Portugal-based Software Engineer specializing in end-to-end software deve
 
 > Actively seeking exciting opportunities to contribute to meaningful projects and collaborate with passionate developers. Feel free to explore my work here on GitHub, and let's connect on [LinkedIn](https://www.linkedin.com/in/ricardogesteves/) or [X(Twitter)](https://twitter.com/RicardoGEsteves) to discuss potential collaborations!
 > Also check my profile and contributions on [DEV](https://dev.to/ricardogesteves) and my [StackShare](https://stackshare.io/RicardoGEsteves/latest).
-> Get to know me and explore my work at [https://www.ricardogesteves.com/](https://www.ricardogesteves.com/)
+> Get to know me and explore my work at [https://www.ricardogesteves.com](https://www.ricardogesteves.com)
 >
 > Looking forward to making impactful contributions together! 😊✨
 
