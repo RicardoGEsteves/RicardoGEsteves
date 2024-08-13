@@ -58,13 +58,13 @@ I am a Portugal-based Software Engineer specializing in end-to-end software deve
 >
 > <p align="left"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" width="36" height="36" alt="MacOS" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a></p>
 >
-> `Vercel`, `Netlify`, `Fly.io `, `SWR`, `Turbopack`, `Turborepo`
+> `Vercel`, `Netlify`, `Fly.io `, `SWR`, `Turbopack`, `Turborepo`, `Husky`, `GitActions`, `Edge Functions`
 
 ##
 
 > **Testing**
 >
-> `Jest`, `Testing Library`, `Playwright`, `Cypress`, `Storybook`
+> `Jest`, `Testing Library`, `Playwright`, `Cypress`, `Storybook`, `Vitest`
 
 ##
 
@@ -78,6 +78,7 @@ I am a Portugal-based Software Engineer specializing in end-to-end software deve
 
 > **Latest Projects**
 >
+> - [react-with-vite-on-steroids](https://github.com/RicardoGEsteves/react-with-vite-on-steroids) - A powerful and efficient starter template for building React applications with Vite, TypeScript, TailwindCSS, ESLint, Prettier, Vitest, Testing Library, Playwright, Husky, and more.
 > - [AuthV5-Toolkit](https://github.com/RicardoGEsteves/AuthV5-Toolkit) - Auth.js V5 Toolkit is a specialized toolkit designed to streamline the process of implementing sophisticated and customizable authentication mechanisms within Next.js applications. It provides a solid foundation and structure to integrate Auth.js V5 seamlessly. It's designed to provide a robust and scalable solution for managing user authentication in web applications.
 > - [Storyscape](https://github.com/RicardoGEsteves/Storyscape) - Storyscape leverages cutting-edge technologies to provide users with an immersive social media experience. By utilizing TypeScript, React, Next.js, Tailwind CSS, and other advanced tools, Storyscape aims to redefine user interaction with content, fostering meaningful connections within a vibrant online community.
 > - [SpreadIt](https://github.com/RicardoGEsteves/SpreadIt) - SpreadIt is a dynamic social news aggregation platform powered by robust backend technologies and a user-friendly interface. It employs modern web development frameworks and scalable architecture to enable seamless content submission, sharing, and voting across various formats (articles, images, videos).
